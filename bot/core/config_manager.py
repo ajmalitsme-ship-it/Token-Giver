@@ -10,7 +10,7 @@ class Config:
     AUTHORIZED_CHATS = ""
     BASE_URL = ""
     BASE_URL_PORT = 80
-    BOT_TOKEN = ""
+    BOT_TOKEN = "8108630905:AAHYmh6qnDixrY7ivHcNo4oV4uf7YMvujpw"
     CMD_SUFFIX = ""
     CLONE_DUMP_CHATS = ""
     DATABASE_URL = ""
